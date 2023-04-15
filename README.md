@@ -1,8 +1,8 @@
 # Person-Re-identification
-## Person Re-Identification Project for DIgital Image Processing course
-## Made analysis of deep-person-reidentification
+## Person Re-Identification Project for Digital Image Processing course
+Made analysis of deep-person-reidentification
 
-### Analysis availaible in the ppt attached
+Analysis availaible in the ppt attached
 
 References:- <br>
 https://arxiv.org/pdf/1910.10093.pdf <br>
